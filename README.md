@@ -1,3 +1,10 @@
+# THE CODE GLOSS
+
+Mon glossaire de code !
+Un exemple https://sidewaysdictionary.com/#/
+
+
+
 Success! Created codegloss at /Users/amesteves/Documents/CODE/bacasable/REACT/codegloss
 Inside that directory, you can run several commands:
 
