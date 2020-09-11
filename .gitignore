@@ -24,3 +24,5 @@ yarn-error.log*
 
 # api part
 /api/node_modules
+/api/dist
+
